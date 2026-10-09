@@ -6,3 +6,6 @@ matplotlib
 seaborn
 openpyxl
 warnings
+tensorflow
+statsmodels
+io 
