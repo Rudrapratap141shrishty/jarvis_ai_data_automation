@@ -5,7 +5,4 @@ plotly
 matplotlib
 seaborn
 openpyxl
-tensorflow
-pyttsx3
-speeach_recognition
-pyaudio
+warnings
